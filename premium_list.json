@@ -3,7 +3,7 @@
     "id": "a92029281e582da6",
     "username": "tes",
     "password": "tes",
-    "expiresAt": "2025-1-20",
+    "expiresAt": "2025-01-20",
     "allowOffline": false
   },
   {
@@ -11,6 +11,27 @@
     "username": "user2",
     "password": "pass2",
     "expiresAt": "2025-11-30",
+    "allowOffline": false
+  },
+  {
+    "id": "device_3a9c12f4",
+    "username": "user3",
+    "password": "pass3",
+    "expiresAt": "2025-09-15",
+    "allowOffline": false
+  },
+  {
+    "id": "device_f47b9e33",
+    "username": "user4",
+    "password": "pass4",
+    "expiresAt": "2025-12-01",
+    "allowOffline": false
+  },
+  {
+    "id": "device_887ac0b1",
+    "username": "user5",
+    "password": "pass5",
+    "expiresAt": "2026-02-10",
     "allowOffline": false
   }
 ]
