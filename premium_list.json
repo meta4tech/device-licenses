@@ -25,12 +25,19 @@
     "username": "user4",
     "password": "pass4",
     "expiresAt": "2025-12-01",
-    "allowOffline": false
+    "allowOffline": false     
   },
   {
     "id": "device_887ac0b1",
     "username": "user5",
     "password": "pass5",
+    "expiresAt": "2026-02-10",
+    "allowOffline": false
+  },
+  {
+    "id": "device_887ac0b1",
+    "username": "user6",
+    "password": "pass6",
     "expiresAt": "2026-02-10",
     "allowOffline": false
   }
